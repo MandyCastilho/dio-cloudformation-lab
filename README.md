@@ -52,5 +52,4 @@ Aqui organizei minhas anotações, insights e práticas realizadas ao longo das 
 
 Este desafio foi uma ótima oportunidade para **conectar teoria e prática** no uso de AWS CloudFormation. Além de reforçar a importância da **IaC**, também fortaleceu minhas habilidades de documentação e organização de repositórios no GitHub.
 
-🔗 Projeto entregue como parte da trilha da DIO.
 
